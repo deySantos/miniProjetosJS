@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: rgb(248, 248, 248);
+    color: rgb(104, 157, 204);
+}
+header{
+    display: flex;
+    flex-direction: column;
+}
+
+button{
+    width: 80px;
+}
